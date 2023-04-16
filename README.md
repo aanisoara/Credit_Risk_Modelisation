@@ -1,4 +1,4 @@
-# Project_Scoring
+# Scoring
 
 Project Master 2 MoSEF: Modélisation du risque de crédit:
 
